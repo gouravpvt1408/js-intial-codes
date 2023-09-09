@@ -63,7 +63,7 @@ let op = {
 
 // function
 
-function(a){
+{
     console.log("hello")
     console.log(typeof a)
 }
